@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ml4sts.com</id>
   <title>Blog </title>
-  <updated>2022-08-04T19:38:29.850618+00:00</updated>
+  <updated>2022-08-04T19:48:22.816482+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.28">ABlog</generator>
